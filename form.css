@@ -12,3 +12,24 @@
 .new_f-title {
 	color: #000000 !important;
 }
+.new_f-form .new_f-form-submit {
+	background: #f7941d;
+	border: none;
+	color: #fff;
+	font-weight: 700;
+	font-size: 16px;
+	cursor: pointer;
+	outline: none;
+	text-transform: none;
+	letter-spacing: normal;
+    text-align: center;
+}
+.new_f-form .new_f-form-submit {
+	border-radius: 0 3px 3px 0;
+	box-shadow: none;
+	color: #000000 !important;
+	margin: 0;
+	padding: 0;
+	width: 107px;
+	transition: background .5s ease !important;
+}
