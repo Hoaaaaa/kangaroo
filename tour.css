@@ -1,0 +1,15 @@
+/* кнопка "заказать тур" */
+.new_t-order-btn,
+.new_t-order-btn-book {
+	color: #000000 !important;
+	background-color: #ffd900 !important;
+	cursor: pointer;
+	font-weight: bold;
+	border-radius: 3px;
+	font-size: 16px;
+	padding: 14px 0;
+	margin-bottom: 6px;
+	height: 51px;
+	text-align: center;
+	transition: background-color .5s ease;
+}
