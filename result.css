@@ -11,3 +11,11 @@
 	right: 0;
 	border: 1px solid #ffd900;
 }
+/*===== стили переключателя валют (на input radio) =====*/
+/* вкл. состояние */
+.new_r-currency-switch label input:checked + span {
+	background-color: #ffd900;
+	cursor: default;
+	color: #000000;
+	box-shadow: none;
+}
