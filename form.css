@@ -9,3 +9,6 @@
 	background: linear-gradient(to right, rgba(76,156,224,1) 0%,rgba(84,163,230,1) 50%,rgba(101,178,243,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c9ce0', endColorstr='#65b2f3',GradientType=1 );
 }
+.new_f-title {
+	color: #000000 !important;
+}
