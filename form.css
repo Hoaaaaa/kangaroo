@@ -42,3 +42,33 @@
 	bottom: 0;
 	background: url(../../images/onsite/plane-icon.png) no-repeat right 15px top 14px !important;
 }
+/*===== разное =====*/
+@charset "utf-8";
+
+.new_os {
+	text-align: left;
+
+}
+.new_os,
+.new_f-container {
+	position: relative;
+	z-index: 3;
+}
+.new_os,
+.new_f-container *,
+.new_f-container *::before,
+.new_f-container *::after,
+.new_spinner-wrap *,
+.new_spinner-wrap *::before,
+.new_spinner-wrap *::after,
+.new_r-container *,
+.new_r-container *::before,
+.new_r-container *::after,
+.new_t-container *,
+.new_t-container *::before,
+.new_t-container *::after {
+	box-sizing: border-box;
+	font-family: 'Times New Roman' !important;
+	line-height: normal;
+	/*transition: none !important;*/
+}
