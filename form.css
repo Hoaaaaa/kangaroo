@@ -33,3 +33,12 @@
 	width: 107px;
 	transition: background .5s ease !important;
 }
+/* изображения компаса и самолета на форме */
+.new_f-wrapper-bg-imgs {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: url(../../images/onsite/plane-icon.png) no-repeat right 15px top 14px !important;
+}
