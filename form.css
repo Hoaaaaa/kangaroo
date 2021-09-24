@@ -51,7 +51,7 @@
 	display: none;
 	background: #fff;
 	padding: 1px 1px 0;
-	position: relative !important;
+	position: absolute !important;
 	left: 0;
 	top: 38px;
 	z-index: 2;
