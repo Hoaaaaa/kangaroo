@@ -46,7 +46,6 @@
 	bottom: 0;
 	background: url(../../images/onsite/plane-icon.png) no-repeat right 15px top 14px !important;
 }
-/*.new_f-form .new_f-dropdown-body {
-	z-index: 1000 !important;
-	position: relative !important;
-}*/
+.new_os {
+	z-index: 4 !important;
+}
