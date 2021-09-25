@@ -48,5 +48,5 @@
 }
 .new_f-dropdown-body {
 	z-index: 1000 !important;
-	position: absolute !important;
+	position: relative !important;
 }
