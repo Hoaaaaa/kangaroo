@@ -14,6 +14,7 @@
 	color: #000000 !important;
 	font-family: Georgia !important;
 	font-size: 18px !important;
+	display: none !important;
 }
 .new_f-form .new_f-form-submit {
 	background: #ffd900;
