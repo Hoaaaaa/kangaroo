@@ -16,6 +16,9 @@
 	font-size: 18px !important;
 	display: none !important;
 }
+h2 {
+	margin-bottom: 2px;
+}
 .new_f-form .new_f-form-submit {
 	background: #ffd900;
 	border: none;
