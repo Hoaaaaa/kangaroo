@@ -47,5 +47,5 @@
 	background: url(../../images/onsite/plane-icon.png) no-repeat right 15px top 14px !important;
 }
 .new_os {
-	z-index: 4 !important;
+	z-index: 1000 !important;
 }
