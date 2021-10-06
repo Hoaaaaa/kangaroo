@@ -60,7 +60,5 @@
 /*сама строка поиска полностью*/
 .new_f-form > .clearfix {
 	margin: 0 !important;
-}
-body { 
-	margin: 0; 
+	position: absolute !important;
 }
