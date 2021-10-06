@@ -61,3 +61,6 @@
 .new_f-form > .clearfix {
 	margin: 0 !important;
 }
+body { 
+	margin: 0; 
+}
