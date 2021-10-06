@@ -53,3 +53,7 @@
 .new_os {
 	z-index: 1001 !important;
 }
+/*расширенный поиск*/
+.new_f-ext-btn-container {
+	display: none !important;
+}
