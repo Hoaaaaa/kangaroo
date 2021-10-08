@@ -48,6 +48,6 @@
 	bottom: 0;
 	background: url(../../images/onsite/plane-icon.png) no-repeat right 15px top 14px !important;
 }
-.new_os {
+.new_f-form>.clearfix {
 	z-index: 1001 !important;
 }
