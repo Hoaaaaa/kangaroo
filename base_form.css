@@ -53,7 +53,7 @@ body {
 .new_t-container *::before,
 .new_t-container *::after {
 	box-sizing: border-box;
-	font-family: 'Open Sans', sans-serif !important;
+	font-family: 'CirceRounded', 'Open Sans', sans-serif !important;
 	line-height: normal;
 	/*transition: none !important;*/
 }
