@@ -843,7 +843,7 @@ body {
 }
 .new_f-dates-container#new_f-dates-container * {
 	box-shadow: none !important;
-	font-family: "Open Sans", sans-serif !important;
+	/*font-family: "Open Sans", sans-serif !important;*/
 }
 .new_f-dates-container#new_f-dates-container #ui-datepicker-div {
 	left: 0 !important;
