@@ -556,30 +556,30 @@
 	top: 131px;
 }
 .new_recommend-tag[data-service="family"] {
-	background-image: url(../../images/onsite/badge-green.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-green.svg);
 }
 .new_recommend-tag[data-service="covid"] {
-	background-image: url(../../images/onsite/badge-teal.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-teal.svg);
 }
 .new_recommend-tag[data-service*="topsales"] {
-	background-image: url(../../images/onsite/badge-red.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-red.svg);
 }
 .new_recommend-tag[data-service="youngsters"] {
-	background-image: url(../../images/onsite/badge-pink.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-pink.svg);
 }
 .new_recommend-tag[data-service="relaxing"] {
-	background-image: url(../../images/onsite/badge-purple.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-purple.svg);
 }
 .new_recommend-tag[data-service="goodfood"] {
-	background-image: url(../../images/onsite/badge-orange.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-orange.svg);
 }
 .new_recommend-tag[data-service="tz"] {
-	background-image: url(../../images/onsite/badge-yellow.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-yellow.svg);
 	color: #095fb8;
 	padding-left: 7px;
 }
 .new_recommend-tag[name*="MOUZENIDIS TRAVEL"] {
-	background-image: url(../../images/onsite/mz-rec.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/mz-rec.svg);
 	padding-left: 7px;
 	font-size: 0;
 	background-size: 75px auto;
@@ -598,7 +598,7 @@
 	left: 0;
 }
 .new_recommend-tag[data-service="vip"] {
-	background-image: url(../../images/onsite/badge-gold.svg);
+	background-image: url(https://export.otpusk.com/images/onsite/badge-gold.svg);
 	font-size: 8px;
 	line-height: 16px;
 }
@@ -610,7 +610,7 @@
 	display: block;
 	width: 6px;
 	height: 5px;
-	background: url(../../images/onsite/badge-triangle.svg) no-repeat center;
+	background: url(https://export.otpusk.com/images/onsite/badge-triangle.svg) no-repeat center;
 }
 
 /* правая часть с информацией */
@@ -693,7 +693,7 @@
 /* питание */
 .new_r-item-food {
 	padding-left: 17px;
-	background: url(../../images/onsite/eat.svg) no-repeat 0 3px / 10px auto;
+	background: url(https://export.otpusk.com/images/onsite/eat.svg) no-repeat 0 3px / 10px auto;
 }
 /* звезды */
 .new_r-item .new_r-item-stars {
