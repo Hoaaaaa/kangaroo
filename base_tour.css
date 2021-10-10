@@ -1666,7 +1666,7 @@ body .os-order-header-title, .os-order-form-wrap *:after {
 }
 .new_t-similar-viewed-wrapper .owl-prev,
 .new_t-similar-viewed-wrapper .owl-next {
-	background: rgba(0, 0, 0, 0) url("../../images/onsite/arr-left.svg") no-repeat scroll center center / cover ;
+	background: rgba(0, 0, 0, 0) url("https://export.otpusk.com/images/onsite/arr-left.svg") no-repeat scroll center center / cover ;
 	cursor: pointer;
 	font-size: 0;
 	height: 28px;
